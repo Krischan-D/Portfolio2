@@ -218,6 +218,7 @@
     #hamburger-nav{
       display: flex;
       z-index: 3;
+      position:fixed;
       right: 0;
       width: 100%;
   
